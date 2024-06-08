@@ -1,2 +1,2 @@
 # Synthosnaptool
-syrepository!!!
+Welcome to Synthosnap-An offline summarization tool
